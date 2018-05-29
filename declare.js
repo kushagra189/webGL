@@ -1,0 +1,16 @@
+var cubeRotation = 0.0;
+var cubeRotation1 = new Array(6);
+var tunnelPoints = 299;
+var z = -10;
+var z_tri = -50;
+var z_cube = new Array(6);
+var z_cube_init = new Array(6);
+var y = 0;
+var flag=0;
+var accY = 0;
+var speedY = 0;
+var flag = 0;
+var life = 50;
+var temp = 0;
+var score=0;
+var grayScala = false;
